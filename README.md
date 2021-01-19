@@ -2,7 +2,7 @@
 <br />
 
 
-Hi I'm Abhay
+Hi I'm Himanshu
 
 I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer In the Field of Artificial Intelligence. I am always up for new opportunity. 
 
@@ -10,10 +10,9 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 - 🤔 I'm currently working on some personal projects
 - 🌱 I’m currently learning Deep Learning and its frameworks
 - 👯 I’m looking to connect with more people
-- 📫 How to reach me: [Abhay parashar](mailto:parasharabhay13@gmail.com)
-- 😄 Blog Posts: [Medium](https://parasharabhay13.medium.com/)
+- 📫 How to reach me: [Himanshu Saini](mailto:himanshusaini6795@gmail.com)
+- 😄 Blog Posts: [Medium](https://himanshusaini6795.medium.com/)
 - ⚡ Fun fact: I 🧡 🐶S.
-- 💼 [Portfolio](https://abhayparashar31.github.io/Portfolio/)
 
 <br />
 <br />
@@ -52,11 +51,11 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 
 
 
-[website]: https://abhayparashar31.github.io/Portfolio/
-[twitter]: https://twitter.com/parasharabhay
-[instagram]: https://www.instagram.com/parasharabhay/?hl=en
-[linkedin]: https://www.linkedin.com/in/abhay-parashar-328488185/
 
-[medium]: https://parasharabhay13.medium.com/
-[email]: mailto:parasharabhay13@gmail.com
-[facebook]:https://www.facebook.com/parashar.abhay.7
+
+[instagram]: https://www.instagram.com/himanshu_saini_5/?hl=en
+[linkedin]: https://www.linkedin.com/in/himanshu-saini-7886b414b/
+
+[medium]: https://himanshusaini6795.medium.com/
+[email]: mailto:himanshusaini6795@gmail.com
+[facebook]:https://www.facebook.com/himanshu.saini

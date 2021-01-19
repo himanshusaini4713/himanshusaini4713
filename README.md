@@ -54,7 +54,7 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 
 
 [instagram]: https://www.instagram.com/himanshu_saini_5/?hl=en
-[linkedin]: https://www.linkedin.com/in/himanshu-saini-7886b414b/
+[linkedin]: https://www.linkedin.com/in/himanshu-saini-7886b414b
 
 [medium]: https://himanshusaini6795.medium.com/
 [email]: mailto:himanshusaini6795@gmail.com

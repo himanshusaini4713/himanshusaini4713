@@ -11,7 +11,7 @@ I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer I
 - 🌱 I’m currently learning Deep Learning and its frameworks
 - 👯 I’m looking to connect with more people
 - 📫 How to reach me: [Himanshu Saini](mailto:himanshusaini6795@gmail.com)
-- 😄 Blog Posts: [Medium](https://himanshusaini6795.medium.com/)
+- 
 - ⚡ Fun fact: I 🧡 🐶S.
 
 <br />

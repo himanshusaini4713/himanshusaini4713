@@ -2,17 +2,15 @@
 <br />
 
 
-Hi I'm Himanshu
+Hi I'm Himanshu Saini
 
-I am a Machine Learning Enthusiast Who Is Looking Forward To Building a Carrer In the Field of Artificial Intelligence. I am always up for new opportunity. 
+I am a Data Science Enthusiast Who Is Looking Forward To Building a Carrer In the Field of Data Science. I am always up for new opportunity. 
 
-- 🎯 Job Seeker
-- 🤔 I'm currently working on some personal projects
-- 🌱 I’m currently learning Deep Learning and its frameworks
+_ 🧑‍💻 Currently looking for a opportunity in Data Science.
+- 🤔 I'm currently working on Real world projects.
+- 🐍 I’m currently learning Machine Learning.
 - 👯 I’m looking to connect with more people
-- 📫 How to reach me: [Himanshu Saini](mailto:himanshusaini6795@gmail.com)
-- 
-- ⚡ Fun fact: I 🧡 🐶S.
+- 📫 How to reach me: [Himanshu Saini](mailto:himanshusaini6795@gmail.com
 
 <br />
 <br />

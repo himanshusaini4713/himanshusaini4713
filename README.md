@@ -1,59 +1,90 @@
-# Himanshu Saini  [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://parasharabhay13.medium.com/)
-<br />
+## Himanshu Saini
 
+Computer Science Enginner 
 
-Hi I'm Himanshu Saini
+<!--
+[![linkedin](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/himanshu-saini-7886b414b/)
 
-I am a Data Science Enthusiast Who Is Looking Forward To Building a Carrer In the Field of Data Science. I am always up for new opportunity. 
+[![kaggle](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=K&logoColor=white&color=161616)](https://www.kaggle.com/hsaini)
+-->
 
-_ 🧑‍💻 Currently looking for a opportunity in Data Science.
-- 🤔 I'm currently working on Real world projects.
-- 🐍 I’m currently learning Machine Learning.
-- 👯 I’m looking to connect with more people
-- 📫 How to reach me: [Himanshu Saini](mailto:himanshusaini6795@gmail.com
+![github stats overview](https://github.com/Abhayparashar31/github-stats-transparent/blob/output/generated/overview.svg)
+![github stats languages](https://github.com/Abhayparashar31/github-stats-transparent/blob/output/generated/languages.svg)
 
-<br />
-<br />
-
-
-### Connect with me 📡
-
-[<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-<br />
-<br />
+<!-- source: https://github.com/jstrieb/github-stats -->
 
 
 
+### Github Contribution Streak
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
 
-
-### Github Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=himanshusaini4713)](https://github.com/himanshusaini4713/github-readme-stats)
-
-
-
-
+### Visitor's Count
+<img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
 
 
 
+<!-- ## Languages and Tools
+
+<p>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-%23007396.svg?logo=R&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-f89820.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+<p>
+    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/RStudio-4d8dc9.svg?logo=RStudio&logoColor=white"></a>
+</p>
+
+ -->
+
+<!-- ## Stats
+
+<details>	
+  <summary><b>Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhayparashar31&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayparashar31&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
+</details>
 
 
+<details>	
+  <br />
+  <summary><b>My Setup</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOs 11.3.1</li>
+	    <li><b>Laptop: </b> Macbook Air M1 2020 </li>
+  	    <li><b>Browser: </b> Brave Browser</li>
+	    <li><b>Terminal: </b> Iterm + Oh My Zsh</li>
+	    <li><b>Code Editor:</b> VSCode, Sublime Text, RStudio </li>
+	    <br />
+	</ul>	
+</details>
+ -->
+ ### Watch my contribution graph get eaten by the snake 🐍
 
+<!-- platane/snk works, it just puts it on a new branch -->
+![Abhay parashar gif](https://github.com/Abhayparashar31/Abhayparashar31/blob/output/github-contribution-grid-snake.svg)
+ 
+<!--
 
+Source: https://github.com/iampavangandhi/iampavangandhi/blob/master/README.md
 
-
-
-
-[instagram]: https://www.instagram.com/himanshu_saini_5/?hl=en
-[linkedin]: https://www.linkedin.com/in/himanshu-saini-7886b414b
-
-[medium]: https://himanshusaini6795.medium.com/
-[email]: mailto:himanshusaini6795@gmail.com
-[facebook]:https://www.facebook.com/100005071272623
+Resources
+Icons: https://simpleicons.org/
+GitHub Stats: https://github.com/anuraghazra/github-readme-stats 
+Emojis: https://emojipedia.org/emoji/
+HTML Emojis: https://www.fileformat.info/index.htm 
+Shields: https://shields.io/ 
+Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme 
+-->

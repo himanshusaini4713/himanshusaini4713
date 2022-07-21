@@ -8,18 +8,18 @@ Computer Science Enginner
 [![kaggle](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=K&logoColor=white&color=161616)](https://www.kaggle.com/hsaini)
 -->
 
-![github stats overview](https://github.com/Abhayparashar31/github-stats-transparent/blob/output/generated/overview.svg)
-![github stats languages](https://github.com/Abhayparashar31/github-stats-transparent/blob/output/generated/languages.svg)
+![github stats overview](https://github.com/himanshusaini4713/github-stats-transparent/blob/output/generated/overview.svg)
+![github stats languages](https://github.com/himanshusaini4713/github-stats-transparent/blob/output/generated/languages.svg)
 
 <!-- source: https://github.com/jstrieb/github-stats -->
 
 
 
 ### Github Contribution Streak
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayparashar31&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusaini4713&hide_border=true" />
 
 ### Visitor's Count
-<img src="https://profile-counter.glitch.me/{Abhayparashar31}/count.svg" alt="Visitor Count" /> 
+<img src="https://profile-counter.glitch.me/{himanshusaini4713/count.svg" alt="Visitor Count" /> 
 
 
 

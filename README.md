@@ -19,7 +19,7 @@ Computer Science Enginner
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusaini4713&hide_border=true" />
 
 ### Visitor's Count
-<img src="https://profile-counter.glitch.me/{himanshusaini4713/count.svg" alt="Visitor Count" /> 
+<img src="https://profile-counter.glitch.me/himanshusaini4713/count.svg" alt="Visitor Count" /> 
 
 
 
@@ -53,8 +53,8 @@ Computer Science Enginner
 <details>	
   <summary><b>Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhayparashar31&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayparashar31&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshusaini4713&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=TRUE" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusaini4713&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=TRUE"/>
 </details>
 
 
@@ -74,7 +74,7 @@ Computer Science Enginner
  ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![Abhay parashar gif](https://github.com/Abhayparashar31/Abhayparashar31/blob/output/github-contribution-grid-snake.svg)
+![Himanshu Saini gif](https://github.com/himanshusaini4713/himanshusaini4713/blob/output/github-contribution-grid-snake.svg)
  
 <!--
 

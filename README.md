@@ -29,10 +29,6 @@ Computer Science Enginner
 </p> 
 
 
-
-### Github Contribution Streak
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusaini4713&hide_border=true" />
-
 ### Visitor's Count
 <img src="https://profile-counter.glitch.me/himanshusaini4713/count.svg" alt="Visitor Count" /> 
 
@@ -91,7 +87,13 @@ Computer Science Enginner
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Himanshu Saini gif](https://github.com/himanshusaini4713/himanshusaini4713/blob/output/github-contribution-grid-snake.svg)
  
+ ### Github Contribution Streak
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusaini4713&hide_border=true" />
+
+ 
 <!--
+
+
 
 Source: https://github.com/iampavangandhi/iampavangandhi/blob/master/README.md
 

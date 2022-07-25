@@ -16,7 +16,8 @@ Computer Science Enginner
 <!-- source: https://github.com/jstrieb/github-stats -->
 
 
- ## Social Links
+
+### Social Links
 
 <p align="center">
   <a href="https://medium.com/@abhayparashar31"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>

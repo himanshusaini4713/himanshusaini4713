@@ -2,7 +2,6 @@
 
 Computer Science Enginner 
 
-[View my resume](https://drive.google.com/file/d/1glnMmMDnKUf93BQjkZoPZ0gw6eoVFHd6/view?usp=sharing)
 
 <!--
 [![linkedin](https://img.shields.io/badge/-@abhayparashar31-161616?style=flat-square&labelColor=007bb5&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/himanshu-saini-7886b414b/)
